@@ -1,0 +1,28 @@
+name: Auteur II Hizq
+favicon: null
+layout_spectrum: 0.3076930830720812
+typography_spectrum: 0.39056651573628187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8611275143921375
+  lightness: 0.25419062096625566
+  saturation: 0.8878412977792323
+  rhythmicContrast: 0.4367301887832582
+purpose: []
