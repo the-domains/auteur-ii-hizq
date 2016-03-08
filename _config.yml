@@ -1,28 +1,39 @@
-name: Auteur II Hizq
 favicon: null
-layout_spectrum: 0.3076930830720812
-typography_spectrum: 0.39056651573628187
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Auteur II Hizq
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8611275143921375
-  lightness: 0.25419062096625566
-  saturation: 0.8878412977792323
-  rhythmicContrast: 0.4367301887832582
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.1792115
+  brandStrength: 0.8584229
+  lightness: 0.2759857
+  brandColors:
+    - '#91655C'
+    - '#A3A391'
+    - '#2D1918'
+    - '#4E6D65'
+  rhythmicContrast: 0.4964158
+typography_spectrum: 0.6397849
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+layout_spectrum: 0.6290323
