@@ -1,17 +1,9 @@
 ---
-author:
-  - name: Chuck Sambuchino
-    url: 'http://www.writersdigest.com/author/chuck-sambuchino'
-    avatar: {}
-  - name: About Us
-    url: 'http://www.writersdigest.com/about-us'
-    avatar: {}
-related: []
-publisher:
-  favicon: 'http://www.writersdigest.com/favicon.ico'
-  url: 'http://www.writersdigest.com'
-  name: WritersDigest.com
-  domain: tinyurl.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - '2016'
   - writer
@@ -24,18 +16,27 @@ keywords:
   - feb
   - cursor
 description: "1. Open a new Word document. 2. Save it as tentative book title. 3. Wonder if any other books have this title 4. Check Twitter. 5. Google tentative book title. 6. Feel relieved that you're somewhat original... (Can writers query multiple agents at the same agency?)"
-inLanguage: en
+datePublished: '2016-03-09T21:56:53.291Z'
+dateModified: '2016-03-09T21:56:32.631Z'
+author:
+  - name: Chuck Sambuchino
+    url: 'http://www.writersdigest.com/author/chuck-sambuchino'
+    avatar: {}
+  - name: About Us
+    url: 'http://www.writersdigest.com/about-us'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://tinyurl.com/pa7nb2a'
 title: 'How to Start a New Novel in 22 Easy Steps | WritersDigest.com'
-datePublished: '2016-03-09T20:14:56.230Z'
-dateModified: '2016-03-09T20:14:09.599Z'
-starred: true
 sourcePath: _posts/2016-03-09-how-to-start-a-new-novel-in-22-easy-steps-or-writersdigestco.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: WritersDigest.com
+  domain: tinyurl.com
+  url: 'http://www.writersdigest.com'
+  favicon: 'http://www.writersdigest.com/favicon.ico'
+url: how-to-start-a-new-novel-in-22-easy-steps-or-writersdigestco/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
