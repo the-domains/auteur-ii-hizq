@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Auteur II Hizq]]></title>
+        <description><![CDATA[Auteur II Hizq]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 20:15:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"I think that thoughts are so precious you can talk them away. You can lose them." -V.S. Naipaul http://bit.ly/18qm0N0</p>]]></description>
+            <link>https://twitter.com/parisreview/status/707537771129409536</link>
+            <guid isPermaLink="false">ea642209-92c7-4a6e-9c9e-42af1628f31b</guid>
+            <pubDate>Wed, 09 Mar 2016 20:14:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
