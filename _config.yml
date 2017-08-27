@@ -1,40 +1,105 @@
 name: Auteur II Hizq
-favicon: null
-layout_spectrum: 0.6290323
-typography_spectrum: 0.6756272
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.7464568293516035
+typography_spectrum: 0.6759576040793137
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#393839'
-    - '#9AACB3'
-    - '#C7E1E9'
-    - '#FFFFFF'
-    - '#AD6D51'
-  brandStrength: 0.5625
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0.75
-purpose: []
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.9568865460827762
+  lightness: 0.6026321172907875
+  saturation: 0.22232281567445855
+  rhythmicContrast: 0.9705615539226385
+purpose:
+  - type: contact
+    label: Phone
+    url: 'tel:4435293963'
+  - type: contact
+    label: Email
+    url: 'mailto:Auteurhizq@protonmail.ch'
+title: 'A writer or Chaos, Civility, Instabilities, Musings and Understanding.'
+description: The Pen is my sword.
+author:
+  name: Hizqiyah Yoshiyah
+  email: auteurhizq@protonmail.ch
+content_rating:
+  adult: false
+navigation:
+  - name: About Me
+    id: 58291de5-9edf-4578-8687-f64cc1ed367a
+    type: content
+  - name: Twitter
+    url: 'https://twitter.com/AuteurIIHizq'
+    type: external
+  - name: Medium
+    url: 'https://medium.com/@AuteurIIHizq'
+    type: external
+  - name: Shabbat Lesson Notes
+    url: 'https://medium.com/shabbat-lessons'
+    type: external
+  - name: Understanding Cinema
+    url: 'https://medium.com/understanding-cinema'
+    type: external
+  - name: Understanding Television
+    url: 'https://medium.com/understanding-tv'
+    type: external
+  - name: 'How to Start a New Novel in 22 Easy Steps '
+    id: e45804ca-0212-4f93-8cc6-e01e2efbd932
+    type: content
+  - name: Shortcuts for Your Pocket Typewriter
+    id: c4dee7dd-c316-4315-9394-c6d269c1984b
+    type: content
+  - name: Sort Your Sheets the Way You Want It
+    id: 29b56011-5afd-4241-8b22-f6d2f3aff113
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cee48e1-8754-4ce9-a0c2-9a0d9b369fee.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cee48e1-8754-4ce9-a0c2-9a0d9b369fee.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22a2117-b366-407a-a7c2-4d1ad38860d9.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22a2117-b366-407a-a7c2-4d1ad38860d9.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
